@@ -1,4 +1,4 @@
-# Advanced Video Optimizer
+# AVOptimizer Advanced Video Optimizer
 
 Advanced Video Optimizer is a powerful tool designed to compress and optimize videos for streaming and sharing. It provides an easy-to-use graphical interface for customizing video compression settings and processing multiple files.
 
